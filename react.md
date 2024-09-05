@@ -49,10 +49,10 @@ To build efficient web applications with React, it's crucial to understand the f
 - **Advanced State Management**: Explore libraries for global state management like Redux and Zustand.
 
 ### Redux Resources
-- **Documentation**: [Redux Docs](https://redux.js.org/)
-- **Toolkit Documentation**: [Redux Toolkit Docs](https://redux-toolkit.js.org/)
-- **Saga Documentation**: [Redux Saga Docs](https://redux-saga.js.org/)
-- **Thunk Documentation**: [Redux Thunk Docs](https://redux.js.org/usage/writing-logic-thunks)
+- **Documentation**: https://redux.js.org/
+- **Toolkit Documentation**: [Redux Toolkit Docs]: https://redux-toolkit.js.org/
+- **Saga Documentation**: [Redux Saga Docs]: https://redux-saga.js.org/
+- **Thunk Documentation**: [Redux Thunk Docs]: https://redux.js.org/usage/writing-logic-thunks
 
 ### Learning Resources
 - **Redux**:
@@ -63,9 +63,9 @@ To build efficient web applications with React, it's crucial to understand the f
     - https://www.youtube.com/watch?v=Zynx2kRqozo&list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL
     - https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
 - **Zustand**:
-  - **Documentation**: [Zustand Docs](https://zustand-demo.pmnd.rs/)
-  - **English Video**: [Video](https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX)
-  - **Vietnamese Video**: [Video](https://www.youtube.com/watch?v=LbbJRkm_qHA)
+  - **Documentation**: https://zustand-demo.pmnd.rs/
+  - **English Video**: https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX
+  - **Vietnamese Video**: https://www.youtube.com/watch?v=LbbJRkm_qHA
 
 ## 9. Performance Optimization
 To ensure your React application runs efficiently, consider the following optimization techniques:
@@ -147,27 +147,27 @@ To ensure your React application runs efficiently, consider the following optimi
   - Write new tests if your changes introduce new features or fix bugs.
 
 ## 14. References and Further Reading
-- **Official React Documentation**: [React Docs](https://react.dev/)
-- **React Patterns**: [React Patterns](https://reactpatterns.com/)
-- **JavaScript Info**: [JavaScript Info](https://javascript.info/)
-- **CSS Tricks**: [CSS Tricks](https://css-tricks.com/)
+- **Official React Documentation**: [React Docs]: https://react.dev/
+- **React Patterns**: [React Patterns]: https://reactpatterns.com/
+- **JavaScript Info**: [JavaScript Info]: https://javascript.info/
+- **CSS Tricks**: [CSS Tricks]: https://css-tricks.com/
 
 ## 15. Useful Tools and Libraries
 - **Code Editors**:
-  - [Visual Studio Code](https://code.visualstudio.com/)
-  - [Sublime Text](https://www.sublimetext.com/)
+  - [Visual Studio Code]: https://code.visualstudio.com/
+  - [Sublime Text]: https://www.sublimetext.com/
 
 - **Design Systems**:
-  - [Material-UI](https://mui.com/)
-  - [Ant Design](https://ant.design/)
+  - [Material-UI]: https://mui.com/
+  - [Ant Design]: https://ant.design/
 
 - **State Management Libraries**:
-  - [Recoil](https://recoiljs.org/)
-  - [MobX](https://mobx.js.org/)
+  - [Recoil]: https://recoiljs.org/
+  - [MobX]: https://mobx.js.org/
 
 - **API Interaction**:
-  - [Axios](https://axios-http.com/)
-  - [React Query](https://react-query.tanstack.com/)
+  - [Axios]: https://axios-http.com/
+  - [React Query]: https://react-query.tanstack.com/
 
 ## 16. License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
