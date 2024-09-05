@@ -7,10 +7,10 @@ To become proficient with React and build efficient web applications, it's impor
 - **Installation and Setup**: Guide to setting up a React development environment and configuring a new project.
 - **Youtube channel to learn Reactjs**:
 - **Vietnamese Video**:
-- https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
+  https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
 - **English Video**:
-- https://www.youtube.com/watch?v=SqcY0GlETPk
-- https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
+  https://www.youtube.com/watch?v=SqcY0GlETPk
+  https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
 
 ## 2. Components
 - **Component Basics**: Learn about components and how they help build user interfaces.
@@ -46,17 +46,17 @@ To become proficient with React and build efficient web applications, it's impor
 - **Advanced State Management**: Introduction to libraries like Redux or Zustand for global state management.
 - **Youtube channel to learn ReduX, Redux Saga, Toolkit:
 - **English Video**:
-- https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
-- https://www.youtube.com/watch?v=93p3LxR9xfM
+  https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+  https://www.youtube.com/watch?v=93p3LxR9xfM
 - **Vietnamese Video**:
-- https://www.youtube.com/watch?v=Zynx2kRqozo&list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL
-- https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
+  https://www.youtube.com/watch?v=Zynx2kRqozo&list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL
+  https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
   
 - **Youtube channel to learn Zustand**:
 - **English Video**:
-- https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX
+  https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX
 - **Vietnamese Video**:
-- https://www.youtube.com/watch?v=LbbJRkm_qHA
+  https://www.youtube.com/watch?v=LbbJRkm_qHA
 
 ## 9. Performance Optimization
 - **Optimizing Performance**: Techniques to optimize React performance, such as memoization and lazy loading.
