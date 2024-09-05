@@ -40,8 +40,8 @@ To become proficient with React and build efficient web applications, it's impor
 - **Advanced State Management**: Introduction to libraries like Redux or Zustand for global state management.
 - **Youtube channel to learn ReduX, Redux Saga, Toolkit:
 - **English Video:
-- ***https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
-- ***https://www.youtube.com/watch?v=93p3LxR9xfM
+- https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+- https://www.youtube.com/watch?v=93p3LxR9xfM
 - **Vietnamese Video:
 - https://www.youtube.com/watch?v=Zynx2kRqozo&list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL
 - https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
