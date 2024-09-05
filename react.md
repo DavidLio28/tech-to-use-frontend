@@ -46,6 +46,10 @@ To become proficient with React and build efficient web applications, it's impor
 
 ## 8. Data Management
 - **Advanced State Management**: Introduction to libraries like Redux or Zustand for global state management.
+- **Redux Docs**: [https://redux.js.org/]
+- **Redux Toolkit Docs**: [https://redux-toolkit.js.org/]
+- **Redux Saga Docs**: [https://redux-saga.js.org/]
+- **Redux Thunk Docs**: [https://redux.js.org/usage/writing-logic-thunks]
 - **Youtube channel to learn ReduX, Redux Saga, Toolkit:
 - **English Video**:
 - https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
@@ -55,7 +59,7 @@ To become proficient with React and build efficient web applications, it's impor
 - https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
   
 - **Youtube channel to learn Zustand**:
-- **Docs**: https://zustand-demo.pmnd.rs/
+- **Zustand Docs**: https://zustand-demo.pmnd.rs/
 - **English Video**:
 - https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX
 - **Vietnamese Video**:
