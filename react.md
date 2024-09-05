@@ -26,8 +26,12 @@ To become proficient with React and build efficient web applications, it's impor
 
 ## 6. Hooks
 - **Introduction to Hooks**: Understand the concept and benefits of hooks in React.
-- **`useEffect` Hook**: Manage side effects and perform tasks like data fetching.
-- **`useContext` Hook**: Share data between components without prop drilling using Context.
+- **`useState` Hook**: Manage component state in function components.
+- **`useEffect` Hook**: Manage side effects and perform tasks like data fetching, subscriptions, or manual DOM manipulation. Understand how to use `useEffect` for executing code after the component renders and cleaning up resources.
+- **`useContext` Hook**: Share data between components without prop drilling using Context. Learn how to create and use a Context to manage and access global data across the component tree.
+- **`useReducer` Hook**: Manage complex state logic in a component using a reducer function. Understand how to use `useReducer` for scenarios where state transitions are more complex.
+- **`useMemo` Hook**: Optimize performance by memoizing expensive computations. Learn how to use `useMemo` to avoid recalculating values unnecessarily during re-renders.
+- **`useCallback` Hook**: Memorize callback functions to prevent unnecessary re-renders of child components. Understand how `useCallback` can help in optimizing performance by maintaining stable function references.
 
 ## 7. Routing
 - **React Router**: Install and use React Router for managing navigation in your React application.
@@ -43,4 +47,3 @@ To become proficient with React and build efficient web applications, it's impor
 
 ## 11. Deployment
 - **Deploying a React App**: Steps to deploy a React application to production environments using platforms like Netlify, Vercel, or Heroku.
-
