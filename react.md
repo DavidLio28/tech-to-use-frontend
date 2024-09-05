@@ -9,8 +9,8 @@ To build efficient web applications with React, it's crucial to understand the f
 
 ### Learning Resources
 - **Vietnamese**:
-  - [Video 1](https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q)
-  - [Video 2](https://www.youtube.com/watch?v=H51ky9lR9Lo&list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA)
+  - https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
+  - https://www.youtube.com/watch?v=H51ky9lR9Lo&list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA
 - **English**:
   - [Video 1](https://www.youtube.com/watch?v=SqcY0GlETPk)
   - [Video 2](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
