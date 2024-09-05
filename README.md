@@ -5,8 +5,8 @@ Welcome to the Frontend Development Skills Guide for Freshers! This repository i
 ## Table of Contents
 
 - [Overview](#overview)
-- [HTML & CSS](html-css.md)
-- [JavaScript](javascript.md)
+- [HTML & CSS](html-css.md): (SCSS, LESS)
+- [JavaScript](javascript.md): Typescript
 - [Tools](tools.md): (Figma, Trello, Redmine)
 - [React](react.md)
 - [Additional Resources](#additional-resources)
