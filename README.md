@@ -1,4 +1,4 @@
-# Frontend Development Skills Guide for Freshers
+# Frontend Development Skills
 
 Welcome to the Frontend Development Skills Guide for Freshers! This repository is designed to help you build a solid foundation in frontend development. It covers essential skills and tools that will set you up for success as you begin your journey in the field of web development.
 
