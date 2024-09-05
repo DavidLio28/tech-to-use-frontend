@@ -8,6 +8,7 @@ To become proficient with React and build efficient web applications, it's impor
 - **Youtube channel to learn Reactjs**:
 - **Vietnamese Video**:
 - https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
+- https://www.youtube.com/watch?v=H51ky9lR9Lo&list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA
 - **English Video**:
 - https://www.youtube.com/watch?v=SqcY0GlETPk
 - https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
