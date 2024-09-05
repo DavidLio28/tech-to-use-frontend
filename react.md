@@ -56,6 +56,15 @@ To build efficient web applications with React, it's crucial to understand the f
 
 ## 7. Routing
 - **React Router**: Install and use React Router for managing navigation in your React application.
+- **Documentation**: Docs React Router: https://reactrouter.com/en/main
+- **Learning React Router with YouTube**
+- **Vietnamese**:
+  - React Router v6 Tutorial by Đạt Trần: https://www.youtube.com/watch?v=DEd9W0G3JzM
+  - Hướng dẫn React Router by Học viện Mở: https://www.youtube.com/watch?v=I_zWUVV8I8k
+- **English**:
+  - React Router v6 Crash Course by Traversy Media: https://www.youtube.com/watch?v=Law7wfdg_ls
+  - React Router Tutorial for Beginners by The Net Ninja: https://www.youtube.com/watch?v=8j8lz1ckqLk&list=PL4cUxeGkcC9iV4O6pGx0K80_m9UJSHzRX
+  - React Router v6 Guide by Academind: https://www.youtube.com/watch?v=LRM6JLCkmxM
 
 ## 8. Data Management
 - **Advanced State Management**: Explore libraries for global state management like Redux and Zustand.
