@@ -12,8 +12,8 @@ To build efficient web applications with React, it's crucial to understand the f
   - https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
   - https://www.youtube.com/watch?v=H51ky9lR9Lo&list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA
 - **English**:
-  - [Video 1](https://www.youtube.com/watch?v=SqcY0GlETPk)
-  - [Video 2](https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC)
+  - https://www.youtube.com/watch?v=SqcY0GlETPk
+  - https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
 
 ## 2. Components
 - **Component Basics**: Understand components and their role in building user interfaces.
@@ -57,11 +57,11 @@ To build efficient web applications with React, it's crucial to understand the f
 ### Learning Resources
 - **Redux**:
   - **English**:
-    - [Video 1](https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
-    - [Video 2](https://www.youtube.com/watch?v=93p3LxR9xfM)
+    - https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+    - https://www.youtube.com/watch?v=93p3LxR9xfM
   - **Vietnamese**:
-    - [Video 1](https://www.youtube.com/watch?v=Zynx2kRqozo&list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL)
-    - [Video 2](https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH)
+    - https://www.youtube.com/watch?v=Zynx2kRqozo&list=PLeS7aZkL6GOuyJkqg5mXvU2WoKCv6zDBL
+    - https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
 - **Zustand**:
   - **Documentation**: [Zustand Docs](https://zustand-demo.pmnd.rs/)
   - **English Video**: [Video](https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX)
@@ -114,8 +114,8 @@ To ensure your React application runs efficiently, consider the following optimi
 - **Storybook**: Develop and test UI components in isolation with Storybook.
   - **Storybook Docs**: [Storybook Docs](https://storybook.js.org/)
   - **Learning Resources**:
-    - **Vietnamese**: [Video](https://www.youtube.com/watch?v=R6ZTK6SS5bM)
-    - **English**: [Video 1](https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk)
+    - **Vietnamese**: https://www.youtube.com/watch?v=R6ZTK6SS5bM
+    - **English**: https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
 ## 11. Deployment
 - **Deploying a React App**: Steps to deploy a React application using platforms like Netlify, Vercel, or Heroku.
