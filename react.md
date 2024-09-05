@@ -44,10 +44,12 @@ To build efficient web applications with React, it's crucial to understand the f
 
 ### Learning Hooks with YouTube
 - **Vietnamese**:
+  - React Hooks 2022 F8: https://www.youtube.com/watch?v=5ismRwx4ebM&list=PL_-VfJajZj0W8-gf0g3YCCyFh-pVFMOgy
   - Hook Basics by Tony: https://www.youtube.com/watch?v=7g9m3H8L81M
   - React Hooks by Học viện Mở: https://www.youtube.com/watch?v=pLN4rVnvfC8&list=PLMtbdi4uLjrGnBR1xijmZy19FtkAkH_Mv
   - Mastering React Hooks by Nguyễn Văn Hậu: https://www.youtube.com/watch?v=U5PxGvlwYDQ
 - **English**:
+  - Web Dev Simplified: https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h
   - React Hooks Tutorial by Traversy Media: https://www.youtube.com/watch?v=-Ml5U7exu7Q
   - Introduction to React Hooks by The Net Ninja: https://www.youtube.com/watch?v=6JH0Y6GRQ7c&list=PL4cUxeGkcC9jv0a9jeyGVK0_H_bjhz9dL
   - React Hooks Deep Dive by Academind: https://www.youtube.com/watch?v=DPnJ8ioi7Ko
