@@ -5,6 +5,7 @@ To become proficient with React and build efficient web applications, it's impor
 ## 1. Introduction to React
 - **Overview**: Understand what React is and why it's popular for building user interfaces.
 - **Installation and Setup**: Guide to setting up a React development environment and configuring a new project.
+- **Docs**: [(https://react.dev/learn)]
 - **Youtube channel to learn Reactjs**:
 - **Vietnamese Video**:
 - https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
@@ -54,6 +55,7 @@ To become proficient with React and build efficient web applications, it's impor
 - https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
   
 - **Youtube channel to learn Zustand**:
+- **Docs**: https://zustand-demo.pmnd.rs/
 - **English Video**:
 - https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX
 - **Vietnamese Video**:
