@@ -7,10 +7,10 @@ Welcome to the Frontend Development Skills Guide for Freshers! This repository i
 - [Overview](#overview)
 - [HTML & CSS](html-css.md)
 - [JavaScript](javascript.md)
-- [Tools](tools.md): Figma, Trello, Redmine
+- [Tools](tools.md): (Figma, Trello, Redmine)
 - [React](react.md)
 - [Additional Resources](#additional-resources)
-- [Version Control]: Git, Github, Gitlab 
+- [Version Control]: (Git, Github, Gitlab)
 
 ## Overview
 
