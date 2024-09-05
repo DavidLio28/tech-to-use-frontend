@@ -9,12 +9,12 @@ To build efficient web applications with React, it's crucial to understand the f
 
 ### Learning Resources
 - **Vietnamese**:
-  - https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
-  - https://www.youtube.com/watch?v=H51ky9lR9Lo&list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA
+  - F8: https://www.youtube.com/watch?v=x0fSBAgBrOQ&list=PL_-VfJajZj0UXjlKfBwFX73usByw3Ph9Q
+  - EvonDev: https://www.youtube.com/watch?v=H51ky9lR9Lo&list=PLd8OdiciAE1REwyIQ1dNwzB5R_ateRwrA
 - **English**:
-  - https://www.youtube.com/watch?v=SqcY0GlETPk
-  - https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
-
+  - Programming with Mosh: https://www.youtube.com/watch?v=SqcY0GlETPk
+  - freecodecamp: https://www.youtube.com/watch?v=DLX62G4lc44&list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC
+  - 
 ## 2. Components
 - **Component Basics**: Understand components and their role in building user interfaces.
 - **Function Components**: Learn to create and use function components.
