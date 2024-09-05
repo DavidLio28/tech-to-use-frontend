@@ -158,7 +158,7 @@ To ensure your React application runs efficiently, consider the following optimi
   - Run existing tests to ensure your changes do not break existing functionality.
   - Write new tests if your changes introduce new features or fix bugs.
 
-- ** Learning Git with YouTube**
+- **Learning Git with YouTube**
   - **Vietnamese**:
     - Code dạo: https://www.youtube.com/watch?v=1JuYQgpbrW0
     - Git Basics by Học viện Mở: https://www.youtube.com/watch?v=vnGzNnmX6Rs&list=PL9eIAVQ2oPglNR9kK0K1A9puud8Hs5-dS
