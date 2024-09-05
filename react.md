@@ -53,7 +53,7 @@ To become proficient with React and build efficient web applications, it's impor
 - https://www.youtube.com/watch?v=80UtYNDF-zM&list=PL_QEvEi9neNS7HJnTYzz2G-S_HcCZYNJH
   
 - **Youtube channel to learn Zustand**:
-- - **English Video**:
+- **English Video**:
 - https://www.youtube.com/watch?v=h0rQ73r8yag&list=PL1T-3Hf9FqXbH54aLLMWMpdn6OMa5TWOX
 - **Vietnamese Video**:
 - https://www.youtube.com/watch?v=LbbJRkm_qHA
