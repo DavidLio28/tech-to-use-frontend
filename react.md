@@ -5,7 +5,7 @@ To build efficient web applications with React, it's crucial to understand the f
 ## 1. Introduction to React
 - **Overview**: Learn what React is and why it's popular for building user interfaces.
 - **Installation and Setup**: Instructions for setting up a React development environment and initializing a new project.
-- **Documentation**: [React Official Docs](https://react.dev/learn)
+- **Documentation**: React Official Docs: https://react.dev/learn
 
 ### Learning Resources
 - **Vietnamese**:
@@ -50,9 +50,9 @@ To build efficient web applications with React, it's crucial to understand the f
 
 ### Redux Resources
 - **Documentation**: https://redux.js.org/
-- **Toolkit Documentation**: [Redux Toolkit Docs]: https://redux-toolkit.js.org/
-- **Saga Documentation**: [Redux Saga Docs]: https://redux-saga.js.org/
-- **Thunk Documentation**: [Redux Thunk Docs]: https://redux.js.org/usage/writing-logic-thunks
+- **Toolkit Documentation**: Redux Toolkit Docs: https://redux-toolkit.js.org/
+- **Saga Documentation**: Redux Saga Docs: https://redux-saga.js.org/
+- **Thunk Documentation**:Redux Thunk Docs: https://redux.js.org/usage/writing-logic-thunks
 
 ### Learning Resources
 - **Redux**:
@@ -112,7 +112,7 @@ To ensure your React application runs efficiently, consider the following optimi
 ## 10. Testing
 - **Component Testing**: Test React components using tools like Jest and React Testing Library.
 - **Storybook**: Develop and test UI components in isolation with Storybook.
-  - **Storybook Docs**: [Storybook Docs](https://storybook.js.org/)
+  - **Storybook Docs**: Storybook Docs: https://storybook.js.org/
   - **Learning Resources**:
     - **Vietnamese**: https://www.youtube.com/watch?v=R6ZTK6SS5bM
     - **English**: https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
@@ -147,27 +147,27 @@ To ensure your React application runs efficiently, consider the following optimi
   - Write new tests if your changes introduce new features or fix bugs.
 
 ## 14. References and Further Reading
-- **Official React Documentation**: [React Docs]: https://react.dev/
-- **React Patterns**: [React Patterns]: https://reactpatterns.com/
-- **JavaScript Info**: [JavaScript Info]: https://javascript.info/
-- **CSS Tricks**: [CSS Tricks]: https://css-tricks.com/
+- **Official React Documentation**: React Docs: https://react.dev/
+- **React Patterns**: React Patterns: https://reactpatterns.com/
+- **JavaScript Info**: JavaScript Info: https://javascript.info/
+- **CSS Tricks**: CSS Tricks: https://css-tricks.com/
 
 ## 15. Useful Tools and Libraries
 - **Code Editors**:
-  - [Visual Studio Code]: https://code.visualstudio.com/
-  - [Sublime Text]: https://www.sublimetext.com/
+  - Visual Studio Code: https://code.visualstudio.com/
+  - Sublime Text: https://www.sublimetext.com/
 
 - **Design Systems**:
-  - [Material-UI]: https://mui.com/
-  - [Ant Design]: https://ant.design/
+  - Material-UI: https://mui.com/
+  - Ant Design: https://ant.design/
 
 - **State Management Libraries**:
-  - [Recoil]: https://recoiljs.org/
-  - [MobX]: https://mobx.js.org/
+  - Recoil: https://recoiljs.org/
+  - MobX: https://mobx.js.org/
 
 - **API Interaction**:
-  - [Axios]: https://axios-http.com/
-  - [React Query]: https://react-query.tanstack.com/
+  - Axios: https://axios-http.com/
+  - React Query: https://react-query.tanstack.com/
 
 ## 16. License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
