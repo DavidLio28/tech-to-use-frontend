@@ -1,4 +1,4 @@
-# Frontend Development Skills
+# Frontend Development Skills Guide for Freshers
 
 Welcome to the Frontend Development Skills Guide for Freshers! This repository is designed to help you build a solid foundation in frontend development. It covers essential skills and tools that will set you up for success as you begin your journey in the field of web development.
 
@@ -8,7 +8,7 @@ Welcome to the Frontend Development Skills Guide for Freshers! This repository i
 - [HTML & CSS](html-css.md): (SCSS, LESS)
 - [JavaScript](javascript.md): Typescript
 - [Tools](tools.md): (Figma, Trello, Redmine)
-- [React](react.md)
+- [React](react.md): Reactjs, Nextjs
 - [Additional Resources](#additional-resources)
 - [Version Control]: (Git, Github, Gitlab)
 
