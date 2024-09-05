@@ -116,6 +116,13 @@ By implementing these optimization techniques, you can enhance the performance a
 
 ## 10. Testing
 - **Component Testing**: Methods and tools for testing React components, such as Jest and React Testing Library.
+- **StoryBook**: Storybook is a powerful tool for developing and testing UI components in isolation.
+- **StoryBook Docs**: [ https://storybook.js.org/ ]
+- **Youtube channel to learn StoryBook**:
+- **Vietnamese Video**:
+- https://www.youtube.com/watch?v=R6ZTK6SS5bM
+- **English Video**:
+- https://www.youtube.com/watch?v=BySFuXgG-ow&list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk
 
 ## 11. Deployment
 - **Deploying a React App**: Steps to deploy a React application to production environments using platforms like Netlify, Vercel, or Heroku.
