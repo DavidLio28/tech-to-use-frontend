@@ -5,6 +5,7 @@ To become proficient with React and build efficient web applications, it's impor
 ## 1. Introduction to React
 - **Overview**: Understand what React is and why it's popular for building user interfaces.
 - **Installation and Setup**: Guide to setting up a React development environment and configuring a new project.
+- **Youtube channel to learn Reactjs**:
 
 ## 2. Components
 - **Component Basics**: Learn about components and how they help build user interfaces.
