@@ -42,6 +42,16 @@ To build efficient web applications with React, it's crucial to understand the f
 - **`useMemo` Hook**: Optimize performance by memoizing expensive computations.
 - **`useCallback` Hook**: Memorize callback functions to avoid unnecessary re-renders.
 
+### Learning Hooks with YouTube
+- **Vietnamese**:
+  - Hook Basics by Tony: https://www.youtube.com/watch?v=7g9m3H8L81M
+  - React Hooks by Học viện Mở: https://www.youtube.com/watch?v=pLN4rVnvfC8&list=PLMtbdi4uLjrGnBR1xijmZy19FtkAkH_Mv
+  - Mastering React Hooks by Nguyễn Văn Hậu: https://www.youtube.com/watch?v=U5PxGvlwYDQ
+- **English**:
+  - React Hooks Tutorial by Traversy Media: https://www.youtube.com/watch?v=-Ml5U7exu7Q
+  - Introduction to React Hooks by The Net Ninja: https://www.youtube.com/watch?v=6JH0Y6GRQ7c&list=PL4cUxeGkcC9jv0a9jeyGVK0_H_bjhz9dL
+  - React Hooks Deep Dive by Academind: https://www.youtube.com/watch?v=DPnJ8ioi7Ko
+
 ## 7. Routing
 - **React Router**: Install and use React Router for managing navigation in your React application.
 
